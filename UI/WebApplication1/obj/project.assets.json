@@ -531,11 +531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\experiments\\repos\\git\\WebApplication1\\UI\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\My Documents\\experiments\\repos\\git2\\WebApplication1\\UI\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "E:\\experiments\\repos\\git\\WebApplication1\\UI\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\My Documents\\experiments\\repos\\git2\\WebApplication1\\UI\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\experiments\\repos\\git\\WebApplication1\\UI\\WebApplication1\\obj\\",
+      "outputPath": "E:\\My Documents\\experiments\\repos\\git2\\WebApplication1\\UI\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
